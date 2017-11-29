@@ -1,0 +1,18 @@
+{
+  "name": "ripple_experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "payment.js",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "bunyan": "^1.8.12",
+    "dtrace-provider": "^0.8.5",
+    "ripple-lib": "^0.17.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shawdon",
+  "license": "ISC"
+}
